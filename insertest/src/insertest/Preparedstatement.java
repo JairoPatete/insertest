@@ -2,7 +2,7 @@ package insertest;
 import java.sql.Connection;
 import java.sql.*;
 import java.util.*;
-
+//Esto es una prueba de test branch
 public class Preparedstatement {
 // JDBC driver name and database URL
 static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";  
